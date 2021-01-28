@@ -25,9 +25,33 @@ Every character has a number of attributes that determine their physical and men
 * **Charisma** determines your presence and force of personality. Can you intimidate the guards into leaving alone? Can you convince the shopkeeper to give you a discount on those potions? And exactly how energetic was your performance at the local inn?
 
 To determine your ability scores, you need a set of 6 numbers. The simplest way to generate these is to use what the rules call the **"Standard Array:"** 15, 14, 13, 12, 10, 8; however, the most popular way to generate ability scores is to roll for them.
-1. roll 4 six sided dice
+
+1. Roll 4d6.
+1. Drop the lowest of the 4 dice.
+1. Add up the remaining 3 dice and write the number down.
+1. Repeat steps 1 - 4 until you have 6 number written down.
+
+Once you have six scores, place them as you wish among your different abilities. Every class has key abilities that determine how effective their features are. Place your highest scores in those abilities.  
+
+**A Note on Low Scores:** Sometimes you have low ability scores. Embrace it! having flaws baked into your character can be lots of fun. It adds to the randomness at the gaming table and often leads to the most memorable moments in a game.
+> Meera's player rolled for ability scores and got 17, 14, 14, 12, 9, and 6. Meera is very strong and hardy so she'll put a 17 in Strength and a 14 in Constitution. She pretty coordinated in a tense moment so she'll put another 14 in Dexterity. She grew up around intelligent people who were able to coach and tutor her, despite her modest upbringing so she'll put a 12 in intelligence. She may not be the best at sweet talking people but she has a strong presence so she'll put a 9 in Charisma. Lastly, Meera tends to be impulsive and often acts without thinking or observing the situation. She'll put her  in wisdom.
 
 ## 3. Pick a Race
+There are a number of different races in Dungeons and Dragons. This determines things like your general appearance, heritage, age, height, and more. Each race comes with a few ability score bonuses, languages and other features. Some races even have a sub-race which determines even more features and abilities. For a full list of features that your race gets visit the link in the following table.
+
+Race | Ability Score Increases | Has Sub-Race
+---- | ----------------------- | -----------
+[Human](https://5thsrd.org/character/races/human/) | +1 to all ability scores | No
+[Dwarf](https://5thsrd.org/character/races/dwarf/) | +2 Con | Yes
+[Elf](https://5thsrd.org/character/races/elf/) | +2 Dex | Yes
+[Halfling](https://5thsrd.org/character/races/halfling/) | +2 Dex | Yes
+[Gnome](https://5thsrd.org/character/races/gnome/) | +2 Int | Yes
+[Half-Elf](https://5thsrd.org/character/races/half-elf/) | +2 Charisma, +1 to two others | No
+[Dragonborn](https://5thsrd.org/character/races/dragonborn/) | +2 Str, +1 Cha | No
+[Half-Orc](https://5thsrd.org/character/races/half-orc/) | +2 Str, +1 Con | No
+[Tiefling](https://5thsrd.org/character/races/tiefling/) | +2 Cha, +1 Int | No
+
+> Meera wants to play a small character so she'll play a Halfling (Sub-race: lightfoot). This allows her to increase her Dexterity Score by two and her charisma by 1. Additionally, she gets a number of other features as determined by the Halfling link above.
 
 ## 4. Pick a Class
 
