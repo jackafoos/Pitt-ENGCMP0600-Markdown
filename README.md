@@ -56,32 +56,73 @@ Race | Ability Score Increases | Has Sub-Race
 ## 4. Pick a Class
 The next step is pick your class. Your class determines most of your characters capabilities in _and_ out of combat. There are 12 classes in the game each with a different flavor, complexity and play-style. Your class determines whether or not you can cast spells, wear armor, use lock-picks and how many hit points you get at each level.
 
-Class   | Key Abilities | Description
-------- | ----------------------- | -----------
-[Barbarian](https://5thsrd.org/character/classes/barbarian/) | Str, Con | A ferocious warrior with a primal rage
-[Bard](https://5thsrd.org/character/classes/bard/) | Cha | A charismatic performer with powerful spells to help your allies
-[Cleric](https://5thsrd.org/character/classes/cleric/) | Wis | A holy priest whose spells are the miracles of the gods
-[Druid](https://5thsrd.org/character/classes/druid/) | Wis | A powerful mage and shapeshifter who draws their magic from the natural world
-[Fighter]() | Strength or Dexterity | A fast, versatile and deadly warrior, trained in any form of combat
-[Monk](https://5thsrd.org/character/classes/monk/) | Dex, Wis | A nimble hand to hand fighter with mastery over their body
-[Paladin](https://5thsrd.org/character/classes/paladin/) | Str, Cha | A holy warrior and champion who fights for a sworn and binding oath
-[Ranger](https://5thsrd.org/character/classes/ranger/) | Dex, Wis | A warrior who knows as much about the land as they do the monsters they hunt
-[Rogue](https://5thsrd.org/character/classes/rogue/) | Dex | A Sneaky and talented master of all skills who prefers to strike from the shadows
-[Sorcerer](https://5thsrd.org/character/classes/sorcerer/) | Cha | A mage blessed with magical power flowing through their veins from birth
-[Warlock](https://5thsrd.org/character/classes/warlock/) | Cha | A mage who made a binding pact with a supernatural being for power
-[Wizard](https://5thsrd.org/character/classes/wizard/) | Int | A mage who studied the intricacies of magic to learn spell-casting
+Class   | Key Abilities | Description | Hit Die
+------- | ----------------------- | ----------- | ------
+[Barbarian](https://5thsrd.org/character/classes/barbarian/) | Str, Con | A ferocious warrior with a primal rage | 1d12
+[Bard](https://5thsrd.org/character/classes/bard/) | Cha | A charismatic performer with powerful spells to help your allies | 1d8
+[Cleric](https://5thsrd.org/character/classes/cleric/) | Wis | A holy priest whose spells are the miracles of the gods | 1d8
+[Druid](https://5thsrd.org/character/classes/druid/) | Wis | A powerful mage and shapeshifter who draws their magic from the natural world | 1d8
+[Fighter]() | Str or Dex | A fast, versatile and deadly warrior, trained in any form of combat | 1d10
+[Monk](https://5thsrd.org/character/classes/monk/) | Dex, Wis | A nimble hand to hand fighter with mastery over their body | 1d8
+[Paladin](https://5thsrd.org/character/classes/paladin/) | Str, Cha | A holy warrior and champion who fights for a sworn and binding oath | d10
+[Ranger](https://5thsrd.org/character/classes/ranger/) | Dex, Wis | A warrior who knows as much about the land as they do the monsters they hunt | 1d10
+[Rogue](https://5thsrd.org/character/classes/rogue/) | Dex | A Sneaky and talented master of all skills who prefers to strike from the shadows | 1d8
+[Sorcerer](https://5thsrd.org/character/classes/sorcerer/) | Cha | A mage blessed with magical power flowing through their veins from birth | 1d6
+[Warlock](https://5thsrd.org/character/classes/warlock/) | Cha | A mage who made a binding pact with a supernatural being for power | 1d8
+[Wizard](https://5thsrd.org/character/classes/wizard/) | Int | A mage who studied the intricacies of magic to learn spell-casting | 1d6
 
-## 5. Pick a Background
-### Alignment
+> Meera is a ferocious and wild fighter so she'll pick Barbarian as her class. She'll write down her features at level one on her character sheet.
 
-## 6. Fill out the Numbers
+### 5 Modifiers
+The most important part of your character sheet is going to be your ability modifiers. These determine what you add to die rolls for ability checks, attacks and saving throws. Use the following table to determine your ability modifiers _after_ applying your racial bonuses.
 
-### 6-A Modifiers
+Score   | Modifiers
+------- | ---------
+2 - 3   | -4
+4 - 5   | -3
+6 - 7   | -2
+8 - 9   | -1
+10 - 11 | 0
+12 - 13 | +1
+14 - 15 | +2
+16 - 17 | +3
+18 - 19 | +4
+20 - 21 | +5
 
-### 6-B Initiative
+> Meera has a 17 in Strength, a 16 in Dexterity, a 14 in Constitution, a 12 in Constitution, a 6 in Wisdom and a 10 in Charisma. Her ability modifiers are +3, +3, +2, +1, -2, and 0 respectively.
 
-### 6-C Attacks, Saves, Skills
+### 6. Skills and Saves
+At first level, you get to pick a number of skills from a list that appears at the top of your class's rules page. Whenever you roll an ability check for those skills, you can add an additional 2 to the number rolled on the die, in addition to the relevant ability modifier. Additionally, you get proficiency in two saving throws. Whenever you have to make one of those saving throws, you get to add 2 to the number rolled on the die in addition to the appropriate modifier.
+
+Skills | Ability
+------ | -------
+Acrobatics | Dexterity
+Animal Handling | Wisdom
+Arcana | Intelligence
+Athletics | Strength
+Deception | Charisma
+History | Intelligence
+Insight | Wisdom
+Intimidation | Charisma
+Investigation | Intelligence
+Medicine | Wisdom
+Nature | Intelligence
+Perception | Wisdom
+Performance | Charisma
+Persuasion | Charisma
+Religion | Intelligence
+Sleight of Hand | Dexterity
+Stealth | Dexterity
+Survival | Wisdom
+
+> As a Barbarian, Meera gets to choose two skills from her class list. She will choose Athletics and Intimidation as she is very good at sprinting and jumping as well as scaring people with her ferocity.
 
 ## 7. Hit Points
+Hit points determine your character's ability to take physical punishment before falling unconscious or dying. At first level, your hit points are determined by the maximum number on your class's **hit die** (see above) plus your Constitution modifier.
+
+> As a Barbarian, Meera has a d12 hit die, and with a Constitution score of 14, her modifier is +2. Her hit point maximum at level one is 14.
 
 ## 8. Equipment
+Every class has a list of equipment that they can take for free at level one. This includes weapons, armor and adventuring gear. This list can be found at the top of each class's page.
+
+>As a Barbarian, Meera gets a martial weapon-she'll pick a battle axe-two hand axes, 4 javelins, and an explorer's pack.
