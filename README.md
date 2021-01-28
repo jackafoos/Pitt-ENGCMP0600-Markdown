@@ -58,18 +58,18 @@ The next step is pick your class. Your class determines most of your characters 
 
 Class   | Key Abilities | Description
 ------- | ----------------------- | -----------
-[Barbarian]() | Str, Con | A ferocious warrior with a primal rage
-[Bard]() | Cha | A charismatic performer with powerful spells to help your allies
-[Cleric]() | Wis | A holy priest whose spells are the miracles of the gods
-[Druid]() | Wis | A powerful mage and shapeshifter who draws their magic from the natural world
+[Barbarian](https://5thsrd.org/character/classes/barbarian/) | Str, Con | A ferocious warrior with a primal rage
+[Bard](https://5thsrd.org/character/classes/bard/) | Cha | A charismatic performer with powerful spells to help your allies
+[Cleric](https://5thsrd.org/character/classes/cleric/) | Wis | A holy priest whose spells are the miracles of the gods
+[Druid](https://5thsrd.org/character/classes/druid/) | Wis | A powerful mage and shapeshifter who draws their magic from the natural world
 [Fighter]() | Strength or Dexterity | A fast, versatile and deadly warrior, trained in any form of combat
-[Monk]() | Dex, Wis | A nimble hand to hand fighter with mastery over their body
-[Paladin]() | Str, Cha | A holy warrior and champion who fights for a sworn and binding oath
-[Ranger]() | Dex, Wis | A warrior who knows as much about the land as they do the monsters they hunt
-[Rogue]() | Dex | A Sneaky and talented master of all skills who prefers to strike from the shadows
-[Sorcerer]() | Cha | A mage blessed with magical power flowing through their veins from birth
-[Warlock]() | Cha | A mage who made a binding pact with a supernatural being for power
-[Wizard]() | Int | A mage who studied the intricacies of magic to learn spell-casting
+[Monk](https://5thsrd.org/character/classes/monk/) | Dex, Wis | A nimble hand to hand fighter with mastery over their body
+[Paladin](https://5thsrd.org/character/classes/paladin/) | Str, Cha | A holy warrior and champion who fights for a sworn and binding oath
+[Ranger](https://5thsrd.org/character/classes/ranger/) | Dex, Wis | A warrior who knows as much about the land as they do the monsters they hunt
+[Rogue](https://5thsrd.org/character/classes/rogue/) | Dex | A Sneaky and talented master of all skills who prefers to strike from the shadows
+[Sorcerer](https://5thsrd.org/character/classes/sorcerer/) | Cha | A mage blessed with magical power flowing through their veins from birth
+[Warlock](https://5thsrd.org/character/classes/warlock/) | Cha | A mage who made a binding pact with a supernatural being for power
+[Wizard](https://5thsrd.org/character/classes/wizard/) | Int | A mage who studied the intricacies of magic to learn spell-casting
 
 ## 5. Pick a Background
 ### Alignment
