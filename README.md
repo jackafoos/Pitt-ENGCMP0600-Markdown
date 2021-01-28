@@ -4,7 +4,7 @@ Dungeons and Dragons Fifth Edition has greatly simplified the character creation
 **NOTE:** The _only_ things you need to play Dungeons and Dragons are a pencil, some paper, and one set of polyhedral dice. There are many other things that players may like to use, to make the game more for them and their characters, but none of them are required to play, nor are they required for a good time. For convenience, there is a [character sheet](./5eCharacterSheetPrintVersion.pdf) attached to this repository.  
 > The example character built here will appear in sections that look like this.
 
-#### A Note on Dice
+**A Note on Dice**  
 There are 7 polyhedral dice in a given set. They contain: 1 four-sided die, 1 six-sided die, 1 eight-sided, 2 ten-sided dice, 1 twelve-sided die, and twenty-sided die. From this point on, this reference will be using shorthand. When told to roll a number of dice it will look something like this: **2d10**. The first number is the number of dice to be rolled, the second number is the number of the sides the dice should have. **2d10** means roll two ten-sided dice. **4d6** means roll 4 six-sided dice.
 
 #### So, grab some snacks, sharpen your pencil, and get your dice ready; get ready to build your character!
