@@ -54,6 +54,22 @@ Race | Ability Score Increases | Has Sub-Race
 > Meera wants to play a small character so she'll play a Halfling (Sub-race: lightfoot). This allows her to increase her Dexterity Score by two and her charisma by 1. Additionally, she gets a number of other features as determined by the Halfling link above.
 
 ## 4. Pick a Class
+The next step is pick your class. Your class determines most of your characters capabilities in _and_ out of combat. There are 12 classes in the game each with a different flavor, complexity and play-style. Your class determines whether or not you can cast spells, wear armor, use lock-picks and how many hit points you get at each level.
+
+Class   | Key Abilities | Description
+------- | ----------------------- | -----------
+[Barbarian]() | Str, Con | A ferocious warrior with a primal rage
+[Bard]() | Cha | A charismatic performer with powerful spells to help your allies
+[Cleric]() | Wis | A holy priest whose spells are the miracles of the gods
+[Druid]() | Wis | A powerful mage and shapeshifter who draws their magic from the natural world
+[Fighter]() | Strength or Dexterity | A fast, versatile and deadly warrior, trained in any form of combat
+[Monk]() | Dex, Wis | A nimble hand to hand fighter with mastery over their body
+[Paladin]() | Str, Cha | A holy warrior and champion who fights for a sworn and binding oath
+[Ranger]() | Dex, Wis | A warrior who knows as much about the land as they do the monsters they hunt
+[Rogue]() | Dex | A Sneaky and talented master of all skills who prefers to strike from the shadows
+[Sorcerer]() | Cha | A mage blessed with magical power flowing through their veins from birth
+[Warlock]() | Cha | A mage who made a binding pact with a supernatural being for power
+[Wizard]() | Int | A mage who studied the intricacies of magic to learn spell-casting
 
 ## 5. Pick a Background
 ### Alignment
